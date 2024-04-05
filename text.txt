@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 a
 b
 c
-=======
 d
 e
 f
->>>>>>> newBranch
